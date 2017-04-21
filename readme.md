@@ -60,8 +60,3 @@ CSV文件读写
 
 ----------
 
-作者QQ：1317171753，学习群：108934299
----------------
-
-
-  [1]: https://github.com/HiddenStrawberry/JDPackage/blob/master/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B.md
